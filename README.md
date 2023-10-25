@@ -1,0 +1,1 @@
+Oh, I know this project is shit but what can I do when I didn't even know how it's done. I have no idea how to shorten my code so i broke my code into multiple files, This isn't the final version, but the completed one was submitted as an assignment to my professor. Slow and confusing as hell but it works fine, as long as it run, boys!
