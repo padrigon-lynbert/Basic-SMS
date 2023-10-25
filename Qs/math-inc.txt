@@ -1,0 +1,5 @@
+4.2 Basic Operations on Sets 
+
+When two or more sets combine together to form one set under the given conditions, then operations on sets are carried out. 
+
+Union of Sets: Union of two given sets is the smallest set which contains all the elements of both the sets. To find the union of two given sets A and B is a set which consists of all the elements of A and all the elements of B such that no element is repeated. The symbol for denoting union of sets is ‘∪’.

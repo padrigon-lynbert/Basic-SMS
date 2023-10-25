@@ -1,0 +1,13 @@
+1.     Beat—the underlying pulse of a rhythm.
+2.    Tempo—rate of speed of a movement.
+3.    Intensity—variation of stress of movement.
+4.    Pitch—lowness or highness of a tone.
+5.    Accent—emphasis on certain beats.
+6.    Meter—the regular recurrence of beats which divides a musical design into measure.
+7.     Phrase—measures grouped together.
+8.    Bar—in music a vertical line across a staff dividing it into equal measures of time.
+9.    Count—a pulse beat, a time limit.
+10.   Note—a printed symbol of a musical tone.
+11.   Measure—a group of pulse beats.
+12.   Note pattern—refers to a note or set of notes with or without rest used for a certain dance step.
+13.   Step pattern—refers to the movement or movements done for each of the dance steps.
